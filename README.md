@@ -45,4 +45,4 @@ This is the API. The API maps the methods from the "Store" class against its inh
 4. Create the logic for the "lastAccessed" metadata including unit tests.
 5. Create the file storage and database storage logic so that the user has more storage options than the in-memory storage that is currently being used (kvstorage.ts).
 6. Possibly introduce stricter type safety in API layer. This could then lead to an implementation of a so-called validation step for the API input, see notes.
-![image](https://user-images.githubusercontent.com/74827533/165255056-62bb197e-44a0-4066-851c-4df7a501603b.png)
+
